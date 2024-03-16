@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LocalData
+  m_EditorClassIdentifier: 
+  m_GroupName: LocalData
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2d78fecaa0d43304e9e0884115b151a1
+  m_SerializeEntries:
+  - m_GUID: 555cce2c657509b4f8280fd3c9cacc8d
+    m_Address: Assets/TitlePage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c415a979581c88445b980f3102a9f569
+    m_Address: "Assets/Contents/2F\u30A2\u30AF\u30BB\u30F3\u30C8\u30D1\u30CD\u30EB\u9762\uFF12.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e38599b47c5bfd94e9e34ea740b4a3dd
+    m_Address: Assets/font/NotoSansJP-VariableFont_wght SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69c6f5f6d45a7944792e205eca9931c9
+    m_Address: "Assets/Contents/2F\u30A2\u30AF\u30BB\u30F3\u30C8\u30D1\u30CD\u30EB\u9762
+      1.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bf134f910c73478438e63f7b1322c1fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0e0d60bcfbd898443acf1427dcfbb46b, type: 2}
+    - {fileID: 11400000, guid: 733f347e679c05f4a98b60d0310c8fa7, type: 2}
