@@ -27,14 +27,29 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e38599b47c5bfd94e9e34ea740b4a3dd
-    m_Address: Assets/font/NotoSansJP-VariableFont_wght SDF.asset
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 69c6f5f6d45a7944792e205eca9931c9
     m_Address: "Assets/Contents/2F\u30A2\u30AF\u30BB\u30F3\u30C8\u30D1\u30CD\u30EB\u9762
       1.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbd69c6f789cd034cae3d115d45f0665
+    m_Address: Assets/Contents/Overlay Canvas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e38599b47c5bfd94e9e34ea740b4a3dd
+    m_Address: Assets/Contents/font/NotoSansJP-VariableFont_wght SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 057c3b958767007449c9376f0e0d0db6
+    m_Address: Assets/Contents/font/NotoSansJP-VariableFont_wght.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 022db011e75ff1e419de006520219066
+    m_Address: Assets/Contents/font/en/NotoSans-VariableFont_wdth,wght SDF.asset
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

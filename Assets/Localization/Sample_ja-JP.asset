@@ -19,11 +19,11 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 164073213952
-    m_Localized: jp1
+    m_Localized: jp11
     m_Metadata:
       m_Items: []
   - m_Id: 181932560384
-    m_Localized: jp2
+    m_Localized: jp22
     m_Metadata:
       m_Items: []
   references:

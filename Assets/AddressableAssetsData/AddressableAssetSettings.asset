@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: d6add425ee03d9745befe85ad3e2cbb5
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 85b678e30b5dc87265e8d5107cf07bdc
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -52,6 +52,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: eeb1d02142a4fc54d9bc470caabc5cb0, type: 2}
   - {fileID: 11400000, guid: 02a7440abc6390d45a6ba26543ed3078, type: 2}
   - {fileID: 11400000, guid: 9364c037578ea0249864eadd8eec4544, type: 2}
+  - {fileID: 11400000, guid: 8c5ed51158a7981449c4d2cd4ed5489e, type: 2}
+  - {fileID: 11400000, guid: f81596508789a414d8c31c307b408e43, type: 2}
+  - {fileID: 11400000, guid: 9399c5c9b86bacf43b63943ed3ba114c, type: 2}
+  - {fileID: 11400000, guid: b63ac7d9093fa44409b566c5ba4171f1, type: 2}
+  - {fileID: 11400000, guid: 1322ae7ec6ce6fe4d9c5bb330f10a253, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -70,9 +75,9 @@ MonoBehaviour:
       - m_Id: 63325164aa414a749b01bc8e9f21c03d
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 0d407b8a7c8d45944a805bd425ccd494
-        m_Value: ServerData/[BuildTarget]
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
       - m_Id: 130ef6c338714d9479912951f7780bef
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
     - m_InheritedParent: 
       m_Id: ca1a523145d3f144a946165d5e6baf3f
       m_ProfileName: EditorHost
@@ -100,7 +105,7 @@ MonoBehaviour:
       - m_Id: 0d407b8a7c8d45944a805bd425ccd494
         m_Value: ServerData/[BuildTarget]
       - m_Id: 130ef6c338714d9479912951f7780bef
-        m_Value: http://localhost/ServerData/[BuildTarget]
+        m_Value: http://localhost:[HostingServicePort]/ServerData/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 48c510a40f3592e44ae7feca0a383c8d
       m_Name: BuildTarget
@@ -137,7 +142,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b84842cb2cacf764dbe3be44dec9fdd5, type: 2}
   - {fileID: 11400000, guid: 45d7e6ddb3ed6ec47ae873439e3ab9ab, type: 2}
   - {fileID: 11400000, guid: b36dbfd5ee2ca024c9649d50502d5f29, type: 2}
-  m_ActiveProfileId: 7277c46350c6ea448b84226f634770c9
+  m_ActiveProfileId: 9279f203016c9284ebf655b07d617b14
   m_HostingServicesManager:
     m_HostingServiceInfos:
     - classRef: UnityEditor.AddressableAssets.HostingServices.HttpHostingService,
@@ -154,7 +159,7 @@ MonoBehaviour:
           m_Key: HostingServiceUploadSpeed
         - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
           m_ClassName: System.String
-          m_Data: Library/com.unity.addressables/aa/WebGL/WebGL;ServerData/WebGL
+          m_Data: Library/com.unity.addressables/aa/WebGL/WebGL
           m_Key: ContentRoot
         - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
           m_ClassName: System.Boolean
