@@ -49,6 +49,7 @@
      <Compile Include="Assets\Script\SpriteChanger.cs" />
      <Compile Include="Assets\Script\AAA.cs" />
      <Folder Include="Assets" />
+     <Folder Include="Assets\Contents\Atlas" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <Folder Include="Assets\TextMesh Pro\Sprites" />
@@ -58,10 +59,12 @@
      <Folder Include="Assets\Settings" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
      <Folder Include="Assets\Contents\Scenes" />
+     <Folder Include="Assets\Contents\Dummy" />
      <Folder Include="Assets\Contents\Textures" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
      <Folder Include="Assets\TextMesh Pro\Resources" />
+     <None Include="Assets\AddressableAssetsData\link.xml" />
      <Folder Include="Assets\AddressableAssetsData\AssetGroups" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <Folder Include="Assets\Settings\Scenes" />

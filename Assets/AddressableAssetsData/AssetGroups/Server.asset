@@ -17,33 +17,16 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 15a97adc0cb98c243b9074fa2db6d7f4
   m_SerializeEntries:
-  - m_GUID: 4e68f78c54c1e414bae82222c6583f78
-    m_Address: "Assets/Contents/Textures/\uFF11F\u30A2\u30AF\u30BB\u30F3\u30C8\u30D1\u30CD\u30EB\u9762.jpg"
+  - m_GUID: bdebf763a017f0744bb6665ea186f528
+    m_Address: Assets/Contents/Atlas/New Sprite Atlas.spriteatlasv2
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 85fb0f668f8614240bdf34a0f0382633
-    m_Address: "Assets/Contents/Textures/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
-      2022-10-10 095155.png"
+  - m_GUID: 555cce2c657509b4f8280fd3c9cacc8d
+    m_Address: Assets/TitlePage.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a285d43af671f714f885d35e92e3fec8
-    m_Address: "Assets/Contents/Textures/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
-      2022-10-09 213256.png"
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 66f39946552375240af2d7b57a38c078
-    m_Address: "Assets/Contents/Textures/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
-      2022-10-09 213337.png"
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a31836804c31d1d48b79f9ce8489b229
-    m_Address: Assets/Contents/TextView.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Download
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bf134f910c73478438e63f7b1322c1fa, type: 2}
